@@ -1,7 +1,9 @@
 # CDC-Synchronizer-System-Verilog
 Implementation of Synchronizer design for Clock Domain Crossing applications in VLSI using System Verilog 
 
-..........................................................![image](https://github.com/ayush-agarwal-0502/CDC-Synchronizer-System-Verilog/assets/86561124/24d73c57-b18a-45e0-a065-732d253ad442) .....................................................................
+..........................................................![image](https://github.com/ayush-agarwal-0502/CDC-Synchronizer-System-Verilog/assets/86561124/24d73c57-b18a-45e0-a065-732d253ad442) ................
+
+Made by : __AYUSH AGARWAL__
 
 A __CLOCK DOMAIN__ is a region of circuit in which the clock signal for all the components are provided by a certain single clock . While transferring the data from one clock domain to another , it is highly possible that the clocks may not be "in-sync" with each other , and furthermore may not even have the same frequency . Transferring data from clock domain of higher to lower frequency would even cause loss of data . 
 
